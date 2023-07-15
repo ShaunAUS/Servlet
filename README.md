@@ -1,3 +1,2 @@
 # Servlet
-- SpringMVC 구조 복습용
-- Start from servlet
+- SpringMVC를 좀더 깊고, 구멍난 지식들을 다시 채우기 위해 Servlet부터 다시 훏어보기
